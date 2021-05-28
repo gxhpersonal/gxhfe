@@ -12,4 +12,3 @@
 <br/>-✨我希望我的博客可以一直更新下去...✨
 <br/>-⚡ Fun fact: ...⚡
 <br/>
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
