@@ -1,6 +1,3 @@
-# gxhfe
-初始首页
-
 ### Hi there  
 <br/>**Mayandev/Mayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br/>Here are some ideas to get you started:
