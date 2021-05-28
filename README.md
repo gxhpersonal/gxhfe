@@ -1,8 +1,7 @@
 ### Hi there  
-我是一个小小小前端，只是觉得有趣所以做了一个profile；
+我是一个小小小前端，只是觉得有趣所以做了一个profile；     ![](https://github-readme-stats.vercel.app/api?username=gxhpersonal)
 <br/>-   我目前正在学习vue3，vite，vue-routerv4.x...
 <br/>-   我希望我的博客可以一直更新下去...
 <br/>- ⚡ Fun fact: ...
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=gxhpersonal)
