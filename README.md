@@ -15,8 +15,8 @@
 ...✨ 
 <br/>-✨我目前正在使用的工具
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/doc)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=Jenkins)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=Jenkins)](https://www.jenkins.io/zh/)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
 ...✨
